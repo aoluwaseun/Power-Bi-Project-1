@@ -1,5 +1,4 @@
 # Superstore-Analysis-Report
-# Superstore-Analysis-Report
 
 ﻿The Profit trended up, resulting in a 620.21% increase between January 2016 and October 2019.﻿﻿
 ﻿﻿
